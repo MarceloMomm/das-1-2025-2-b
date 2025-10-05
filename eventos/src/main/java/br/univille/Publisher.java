@@ -31,7 +31,7 @@ public class Publisher {
         
         senderClient.sendMessage(
             new ServiceBusMessage(
-                "walter: eu nao acredito 1234"));
+                "marcelo: Como estás"));
         
     }
 }
